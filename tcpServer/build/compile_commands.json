@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/project/socketEcho/tcpServer/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -Wall -o CMakeFiles/tcp_server.dir/main.cpp.o -c /home/ubuntu/project/socketEcho/tcpServer/main.cpp",
+  "file": "/home/ubuntu/project/socketEcho/tcpServer/main.cpp"
+}
+]
